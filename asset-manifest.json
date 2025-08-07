@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homecare-patient-list/static/css/main.948f14d6.css",
+    "main.js": "/homecare-patient-list/static/js/main.b1f05bce.js",
+    "static/js/453.f7490a46.chunk.js": "/homecare-patient-list/static/js/453.f7490a46.chunk.js",
+    "index.html": "/homecare-patient-list/index.html",
+    "main.948f14d6.css.map": "/homecare-patient-list/static/css/main.948f14d6.css.map",
+    "main.b1f05bce.js.map": "/homecare-patient-list/static/js/main.b1f05bce.js.map",
+    "453.f7490a46.chunk.js.map": "/homecare-patient-list/static/js/453.f7490a46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.948f14d6.css",
+    "static/js/main.b1f05bce.js"
+  ]
+}
