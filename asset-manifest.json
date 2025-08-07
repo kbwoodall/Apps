@@ -1,15 +1,12 @@
 {
   "files": {
-    "main.css": "/homecare-patient-list/static/css/main.948f14d6.css",
-    "main.js": "/homecare-patient-list/static/js/main.b1f05bce.js",
-    "static/js/453.f7490a46.chunk.js": "/homecare-patient-list/static/js/453.f7490a46.chunk.js",
-    "index.html": "/homecare-patient-list/index.html",
-    "main.948f14d6.css.map": "/homecare-patient-list/static/css/main.948f14d6.css.map",
-    "main.b1f05bce.js.map": "/homecare-patient-list/static/js/main.b1f05bce.js.map",
-    "453.f7490a46.chunk.js.map": "/homecare-patient-list/static/js/453.f7490a46.chunk.js.map"
+    "main.css": "./static/css/main.bf7f1b14.css",
+    "main.js": "./static/js/main.49a5b80c.js",
+    "static/js/206.75ba299c.chunk.js": "./static/js/206.75ba299c.chunk.js",
+    "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.948f14d6.css",
-    "static/js/main.b1f05bce.js"
+    "static/css/main.bf7f1b14.css",
+    "static/js/main.49a5b80c.js"
   ]
 }
